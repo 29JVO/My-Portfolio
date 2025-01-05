@@ -15,7 +15,7 @@ export const EXPERIENCES = [
     description: `Collaborated with clients to gather requirements and translate them into functional web applications. Developed responsive and visually appealing websites using HTML, CSS, JavaScript, and Bootstrap.
 - Conducted rigorous testing to ensure cross-browser compatibility and optimal performance.`,
     technologies: ["Java", "React", "HTML/CSS", "IT Services", "Technical Support"],
-  },s
+  },
     {
     year: "Sept 2023 - Jan 2024",
     role: "Software Engineer",
